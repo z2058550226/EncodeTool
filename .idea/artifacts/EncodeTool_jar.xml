@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EncodeTool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EncodeTool_jar</output-path>
+    <root id="archive" name="EncodeTool.jar">
+      <element id="module-output" name="EncodeTool" />
+    </root>
+  </artifact>
+</component>
